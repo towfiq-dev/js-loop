@@ -21,3 +21,18 @@ for(let z=65; z<=75; z+=1){
     console.log(z)
   }
 }
+let m =81;
+while(m<=131){
+  if(m%2==1){
+    console.log(m)
+  }
+  m+=1
+}
+
+let a=0;
+while(a<=10){
+  if(a%2==0){
+    console.log(a)
+  }
+  a+=1
+}
